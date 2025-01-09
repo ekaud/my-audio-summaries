@@ -167,3 +167,4 @@ cython_debug/
 .gradio/
 .DS_Store
 gradio_cached_examples/
+credentials/

@@ -1,0 +1,42 @@
+# Application settings
+app:
+  name: "Document to Audio Summary"
+  log_level: "INFO"
+  log_file: "logs/app.log"
+
+# Google API settings
+google:
+  scopes:
+    - "https://www.googleapis.com/auth/gmail.readonly"
+    - "https://www.googleapis.com/auth/calendar.readonly"
+    - "https://www.googleapis.com/auth/drive.readonly"
+
+# Fetcher settings
+fetchers:
+  gmail:
+    enabled: true
+    supported_attachments:
+      - application/pdf
+      - text/plain
+      - application/msword
+      - application/vnd.openxmlformats-officedocument.wordprocessingml.document
+  calendar:
+    enabled: true
+    look_ahead_days: 7
+  hackernews:
+    enabled: true
+    min_score: 100
+    max_stories: 10
+
+# Audio generation settings
+audio:
+  model: "tts-1"
+  voices:
+    - "alloy"
+    - "echo"
+    - "fable"
+    - "onyx"
+    - "nova"
+    - "shimmer"
+  default_voice: "alloy"
+  max_chunk_size: 4000 # Maximum characters per audio chunk

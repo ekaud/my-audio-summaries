@@ -1,0 +1,38 @@
+Title: mock-BoD-draft
+Type: gmail.gdrive.doc
+URL: https://docs.google.com/document/d/17lIW5B0NnrBKNWCe2sWDfrIovNRpsvYt17BvWTIcRDk/
+Owner: eric.s.kabrams@gmail.com
+
+==================================================
+
+Dear Detect board members,
+
+I am pleased to provide a general business update to the board now that I have settled into the CEO role for several weeks. I continue to be excited by the opportunity in front of us and impressed by the quality of the team.
+
+Summary: The team is in the midst of integrating a fully functional hardware and software prototype of our next-generation system for use in doctors’ offices, and has established feasibility of our first product on the platform, a Vaginitis panel. I have included a link to a video demo.   Having successfully executed the leadership transition, we have engaged the bank BTIG to help us pursue a Series D fundraise that will capitalize the company beyond our current runway of Q3 2025 and through FDA approval projected in 2026/2027.
+
+
+Fundraise and Financials
+Received board approval and contracted JPM to run a dual process fundraise and M&A, commencing in Q1 2025  
+Targeting a $50-75M raise to take us through FDA approval and early commercialization, with potential for cash flow positivity
+Monthly actuals continue to track budget projections, averaging $3.5M burn per month
+Received BARDA contract extension up to $25M to fund platform development
+Estimated runway into September ‘26
+
+
+Development
+In the process of integrating functional hardware and software prototype (Merlin 3)
+Decided to prioritize Vaginitis as first product due to high market potential (10-15M tests per year, established reimbursement and high unmet clinical need)
+Successfully established feasibility of Vaginitis panel and continuing development
+Targeting Q3 2026 for FDA submission date
+Received positive FDA feedback via pre-submission regarding cybersecurity plan, platform design suitable for CLIA waiver, and clinical study plans
+
+
+Team
+Made three key senior hires: Jane Stevens and Greg Seire (Principal Scientists, Bioassay Development), and David Venetti (Director of Bioinformatics)
+39 full time employees 
+I am available for any questions or follow-ups. Thank you for your support and best wishes for the holiday season.
+
+Best,
+Eric
+
