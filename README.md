@@ -42,10 +42,11 @@ my-audio-summaries/
 
 ## Setup
 
-1. Install dependencies:
+1. Install dependencies & activate virtual environment:
 
 ```bash
-pip install -r requirements.txt
+uv sync
+source .venv/bin/activate
 ```
 
 2. Configure authentication:
