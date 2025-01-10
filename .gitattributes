@@ -1,0 +1,2 @@
+# reclassifies `.ipynb` files as Python for language statistics
+*.ipynb linguist-language=Python
