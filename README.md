@@ -42,7 +42,7 @@ my-audio-summaries/
 
 ## Setup
 
-1. Install dependencies & activate virtual environment:
+1. Install dependencies and activate virtual environment:
 
 ```bash
 uv sync
