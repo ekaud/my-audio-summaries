@@ -9,7 +9,7 @@ from src.fetchers.base import Document
 from src.processors.base import DocumentProcessor
 from src.processors.pdf import PDFProcessor
 from src.processors.text import TextProcessor  # We'll need to create this
-# from src.audio.generator import generate_audio_summary  # We'll migrate this from docs-to-audio
+from src.audio.generator import generate_audio_summary  # We'll migrate this from docs-to-audio
 
 class ProcessorRegistry:
     """Registry for document processors"""

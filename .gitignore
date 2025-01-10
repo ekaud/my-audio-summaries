@@ -1,5 +1,6 @@
 # Audio file outputs
 sandbox_examples/
+output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
