@@ -6,3 +6,6 @@
 # Ensure Python files are detected
 *.py linguist-detectable=true
 *.py linguist-language=Python
+
+## Uncomment to ignore Jupyter notebooks
+# *.ipynb linguist-detectable=true
