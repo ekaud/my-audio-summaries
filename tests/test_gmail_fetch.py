@@ -1,10 +1,12 @@
+import os
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 import asyncio
 from datetime import datetime, timedelta
 import argparse
 from io import BytesIO
 from pathlib import Path
-import os
-
 from loguru import logger
 from pypdf import PdfReader
 
@@ -17,7 +19,8 @@ async def test_fetch(verbose: bool = False):
     
     # Fetch documents from the last 7 days
     since = datetime.now() - timedelta(days=7)
-    
+    print('****Begin Fetch****')
+    print(f"The current date is {datetime.now()}")
     try:
         documents = await fetcher.fetch_documents(since)
         
